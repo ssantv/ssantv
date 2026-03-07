@@ -14,7 +14,7 @@
 
 ### Full-Stack Developer · Front-End · Digital Architect
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1f8230&center=true&vCenter=true&width=550&lines=Building+interfaces+that+matter.;Front-End+%2B+Full-Stack+Developer.;Always+the+next+step.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1f8230&center=true&vCenter=true&width=550&lines=Full-Stack+dev+with+a+front-end+heart.;Building+interfaces+that+matter.;Front-End+%2B+Full-Stack+Developer.;Always+the+next+step.)](https://git.io/typing-svg)
 
 </div>
 
