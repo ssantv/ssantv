@@ -23,13 +23,24 @@
 ## `> whoami`
 
 ```python
-class Sandra:
-    alias       = "ssantv"
-    location    = "Zamora, España"
-    focus       = ["Front-End", "Full-Stack"]
-    mindset     = "Aprender · Crecer · Superarse"
-    currently   = "Construyendo cosas que importan"
-    open_to     = "Nuevas oportunidades y colaboraciones"
+
+class FullStackDeveloper:
+    def __init__(self):
+        self.alias = "ssantv"
+        self.real_name = "Sandra Santos"
+        self.location = "Zamora, España"
+        self.role = "Full-Stack Developer"
+        self.focus = ["Front-End", "Full-Stack"]
+        self.mindset = "Aprender · Crecer · Superarse"
+        self.language_spoken = ["es_ES", "en_US"]
+        self.open_to = "Nuevas oportunidades y colaboraciones"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = FullStackDeveloper()
+me.say_hi()
+
 ```
 
 > Me impulsa el aprendizaje continuo: cada proyecto es un reto nuevo, cada reto una oportunidad de crecer.
