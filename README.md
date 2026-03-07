@@ -83,14 +83,6 @@ me.say_hi()
 
 Una aplicación Full-Stack que conecta clientes, barberos y dueños de barberías en un mismo ecosistema digital. Inspirada en la experiencia de Airbnb, pero para el mundo de la peluquería y barbería.
 
-**¿Qué hace?**
-- 📅 Sistema de reserva de citas con validación de disponibilidad en tiempo real
-- 💬 Chat en tiempo real entre clientes y propietarios (WebSockets)
-- 💳 Pagos y suscripciones con **Stripe**
-- 🤖 Edición de imagen de peinados con **IA** (Stability AI + DeepL)
-- 🔐 Autenticación multi-rol con **JWT** (admin, owner, barber, client)
-- 🗺️ Geolocalización de barberías
-
 [→ Ver proyecto en vivo 🌐](https://hairbnb-bw01.onrender.com/)
 
 **Stack:**
@@ -100,10 +92,6 @@ Una aplicación Full-Stack que conecta clientes, barberos y dueños de barbería
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%23635BFF.svg?style=flat-square&logo=stripe&logoColor=white)
-
-<div align="center">
-<img src="assets/hairbnb.png" width="600" alt="Vista principal de Hairbnb" />
-</div>
 
 ---
 
@@ -117,13 +105,6 @@ Un experimento de CSS puro donde cada trazo, sombra y forma está construido ún
 **Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-<div align="center">
-  <img src="assets/goku-original.png" height="250px" alt="Goku original" />
-  <img src="assets/goku-ssantv.png" height="250px" alt="Goku copiado" />
-  <br/>
-  <sub>Izquierda: referencia original · Derecha: recreación en CSS</sub>
-</div>
 
 ---
 
