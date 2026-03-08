@@ -114,7 +114,7 @@ Un experimento de CSS puro donde cada trazo, sombra y forma está construido ún
 
 [![GitHub](https://img.shields.io/badge/GitHub-ssantv-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssantv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandra_Santos-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-santos-valderrey/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-En_proceso-%231f8230?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ssantv.vercel.app-%231f8230?style=for-the-badge&logo=firefox&logoColor=white)](https://ssantv-portfolio.vercel.app)
 
 </div>
 
