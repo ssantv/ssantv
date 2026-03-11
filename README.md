@@ -14,7 +14,7 @@
 
 ### · Full-Stack Developer ·
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1f8230&center=true&vCenter=true&width=550&lines=Full-Stack+dev+with+a+front-end+heart.;Building+interfaces+that+matter.;Front-End+%2B+Full-Stack+Developer.;Always+the+next+step.;Coffee+→+Code+→+Ship+→+Repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1f8230&center=true&vCenter=true&width=550&lines=Full-Stack+dev+with+a+front-end+heart.;Coffee+→+Code+→+Ship+→+Repeat;Always+the+next+step.;Building+interfaces+that+matter.;Front-End+%2B+Full-Stack+Developer.;)](https://git.io/typing-svg)
 
 </div>
 
