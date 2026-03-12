@@ -31,9 +31,9 @@ class FullStackDeveloper:
         self.location = "Zamora, España"
         self.role = "Full-Stack Developer"
         self.focus = ["Front-End", "Full-Stack"]
-        self.mindset = "Aprender · Crecer · Superarse"
+        self.mindset = "Learn · Grow · Excel"
         self.language_spoken = ["es_ES", "en_US"]
-        self.open_to = "Nuevas oportunidades y colaboraciones"
+        self.open_to = "New opportunities and collaborations"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -43,8 +43,8 @@ me.say_hi()
 
 ```
 
-> Me impulsa el aprendizaje continuo: cada proyecto es un reto nuevo, cada reto una oportunidad de crecer.
-> No busco la perfección, sino el movimiento constante hacia adelante, la mejora.
+> I am driven by continuous learning: every project is a new challenge, every challenge an opportunity to grow.
+> I don't seek perfection, but rather constant forward movement and improvement.
 
 ---
 
@@ -79,11 +79,11 @@ me.say_hi()
 ## `> projects --featured`
 
 ### ✂️ Hairbnb
-> *Plataforma integral de gestión de barberías*
+> *Comprehensive barbershop management platform*
 
-Una aplicación Full-Stack que conecta clientes, barberos y dueños de barberías en un mismo ecosistema digital. Inspirada en la experiencia de Airbnb, pero para el mundo de la peluquería y barbería.
+A full-stack application that connects customers, barbers, and barbershop owners in a single digital ecosystem. Inspired by the Airbnb experience, but for the world of hairdressing and barbering.
 
-[→ Ver proyecto en vivo 🌐](https://hairbnb-bw01.onrender.com/)
+[→ See live project 🌐](https://hairbnb-bw01.onrender.com/)
 
 **Stack:**
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
@@ -96,11 +96,11 @@ Una aplicación Full-Stack que conecta clientes, barberos y dueños de barbería
 ---
 
 ### 🐉 Son Goku — Pure CSS
-> *Ilustración de Son Goku hecha íntegramente en CSS, sin imágenes*
+> *Illustration of Son Goku made entirely in CSS, without images*
 
-Un experimento de CSS puro donde cada trazo, sombra y forma está construido únicamente con HTML y CSS. Sin SVG, sin canvas, sin imágenes.
+A pure CSS experiment where every stroke, shadow, and shape is built solely with HTML and CSS. No SVG, no canvas, no images.
 
-[→ Ver repositorio](https://github.com/ssantv/Son-Goku-CSS)
+[→ View repository](https://github.com/ssantv/Son-Goku-CSS)
 
 **Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -124,9 +124,9 @@ Un experimento de CSS puro donde cada trazo, sombra y forma está construido ún
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  «El paso más importante que puede dar alguien.              ║
-║   No es el primero, ¿verdad?»                                ║
-║  «Es el próximo. Siempre el próximo paso.»                   ║
+║  "The most important step a man can take.                    ║
+║   It's not the first one, is it?"                            ║
+║  "It's the next one. Always the next step."                  ║
 ║                                                              ║
 ║                              — Brandon Sanderson             ║
 ╚══════════════════════════════════════════════════════════════╝
